@@ -1,3 +1,6 @@
 [submodule "aquarhone-frontend"]
 	path = aquarhone-frontend
 	url = https://github.com/Omargazzah02/aquarhone-front.git
+[submodule "aquarhone-backend"]
+	path = aquarhone-backend
+	url = https://github.com/Omargazzah02/aquarhone-back.git
